@@ -6,4 +6,7 @@ This is a new line added by another member.
 
 
 This one is added by the author. This line as well.
-There is a slight semantic difference between the lines.
+There are slight semantic differences between the lines, but they have many similarities.
+
+
+Lots of new interesting content from the second author, I will also make some corrections and change some lines above.
